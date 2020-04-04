@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace ConsoleApp1
 {
     class Class1
-    {
+    {// Comment
     }
 }
